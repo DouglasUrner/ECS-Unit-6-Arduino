@@ -1,3 +1,6 @@
 [submodule "zumo-shield"]
 	path = zumo-shield
 	url = https://github.com/DouglasUrner/zumo-shield.git
+[submodule "lsm303-arduino"]
+	path = lsm303-arduino
+	url = https://github.com/DouglasUrner/lsm303-arduino.git
