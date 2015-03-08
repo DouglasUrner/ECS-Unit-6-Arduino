@@ -1,0 +1,3 @@
+[submodule "zumo-shield"]
+	path = zumo-shield
+	url = https://github.com/DouglasUrner/zumo-shield.git
