@@ -28,6 +28,7 @@ I'm going to work on setting it up so that you can also install the "whole ball 
 Attributes of a robot:
 
 * Body
+  Physical manifestation.
 * Control
  * Input
  * Program
