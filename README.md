@@ -28,12 +28,31 @@ I'm going to work on setting it up so that you can also install the "whole ball 
 Attributes of a robot:
 
 * Body
-  Physical manifestation.
+
+  Physical manifestation and a means of interacting with the world.
+
 * Control
  * Input
+
+   Information and materials from the world.
+
  * Program
+
+   The
+
  * Output
+
 * Behavior
+
+#### Shoe Tying
+
+Wood with holes
+
+Lace in holes
+
+Clips for robot hands
+
+Gloves
 
 ### Days 2 & 3: Getting to Know the Arduino & Zumo Robot
 
@@ -52,6 +71,10 @@ Attributes of a robot:
 #### Arduino program model:
 
 ##### Using Scratch:
+
+[S4A: Scratch for Arduino](http://s4a.cat)
+
+On a Mac (at least with OS X Yosemite, 10.9, and Mavericks, 10.10) you will need to set your Security & Privacy preferences in System Preferences to install the application (drag it into the Applications folder)
 
 ##### Using Arduino IDE:
 
