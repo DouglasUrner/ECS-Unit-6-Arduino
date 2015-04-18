@@ -27,29 +27,60 @@ I'm going to work on setting it up so that you can also install the "whole ball 
 
 ### Days 2 & 3: Getting to Know the Arduino & Zumo Robot
 
+
+
+#### Resources:
+
+* [Official Arduino Introduction](http://www.arduino.cc/en/Guide/Introduction)
+
+* [Zumo Manual (HTML)](https://www.pololu.com/docs/0j57)
+
+* [Zumo Manual (PDF)](https://www.pololu.com/docs/pdf/0j57/zumo_shield_for_arduino.pdf)
+
 ### Day 4: Arduino IDE: Blink & Beep
+
+#### Arduino program model:
+
+##### Using Scratch:
+
+##### Using Arduino IDE:
+
+Code is written using C/C++ syntax. The Arduino IDE handles some of the details of how C/C++ code is structured. The IDE provides a number of canned examples.
+
+The Arduino programming model is based around two functions.
+
+#### Resources:
+
+##### Scratch
+
+##### Arduino IDE
+
+* [Arduino IDE Downloads](http://www.arduino.cc/en/main/software) - the Arduino IDE is written in Java so you may also need to download and install Java.
+
+* [Zumo extensions for the Aruduino IDE](https://github.com/pololu/zumo-shield) - these are the components that need to be added to the stock Arduino IDE to support the Zumo.
+
+##### Command Line Tools
 
 ### Days 5 & 6: Walk Like a Robot
 
-### Day 7: 
+### Day 7:
 
-### Day 8: 
+### Day 8:
 
-### Day 9: 
+### Day 9:
 
-### Day 10: 
+### Day 10:
 
-### Day 11: 
+### Day 11:
 
-### Day 12: 
+### Day 12:
 
-### Day 13: 
+### Day 13:
 
-### Day 14: 
+### Day 14:
 
-### Day 15: 
+### Day 15:
 
-### Day 16: 
+### Day 16:
 
 ### Days 17 & 18: Line Following Challenge
-
