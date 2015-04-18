@@ -25,6 +25,15 @@ I'm going to work on setting it up so that you can also install the "whole ball 
 
 ### Day 1: Introduction - What is a robot?
 
+Attributes of a robot:
+
+* Body
+* Control
+ * Input
+ * Program
+ * Output
+* Behavior
+
 ### Days 2 & 3: Getting to Know the Arduino & Zumo Robot
 
 
