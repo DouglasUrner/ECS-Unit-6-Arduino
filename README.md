@@ -18,6 +18,38 @@ Initially I'm using the stock Arduino IDE (1.6.3 at this writing). It should be 
 
 1. Download the [Arduino IDE](http://arduino.cc/en/Main/Software). Depending on your host platform, you may also need to install or update Java.
 2. Install the Zumo Bot extensions
-3. 
 
-You can also install the "whole ball of wax" by cloning this repository.
+I'm going to work on setting it up so that you can also install the "whole ball of wax" by cloning this repository.
+
+## Day by Day
+
+### Day 1: Introduction - What is a robot?
+
+### Days 2 & 3: Getting to Know the Arduino & Zumo Robot
+
+### Day 4: Arduino IDE: Blink & Beep
+
+### Days 5 & 6: Walk Like a Robot
+
+### Day 7: 
+
+### Day 8: 
+
+### Day 9: 
+
+### Day 10: 
+
+### Day 11: 
+
+### Day 12: 
+
+### Day 13: 
+
+### Day 14: 
+
+### Day 15: 
+
+### Day 16: 
+
+### Days 17 & 18: Line Following Challenge
+
