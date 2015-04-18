@@ -49,6 +49,16 @@ Code is written using C/C++ syntax. The Arduino IDE handles some of the details 
 
 The Arduino programming model is based around two functions.
 
+```
+setup() // Code that is executed once to get ready.
+```
+and
+```
+loop() // Code that runs over and over doing the work of the machine.
+```
+
+Scratch blocks and C code are very similar.
+
 #### Resources:
 
 ##### Scratch
