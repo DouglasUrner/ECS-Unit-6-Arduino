@@ -38,11 +38,11 @@ Attributes of a robot:
 
  * Program
 
-   The
+   The instructions that implement the robot's behavior.
 
  * Output
 
-* Behavior
+* Behavior - the way the robot responds to inputs and produces outputs. The behavior is responds to the inputs (a robot finds solutions to problems).
 
 #### Shoe Tying
 
@@ -65,7 +65,7 @@ Gloves
 * [Zumo Manual (HTML)](https://www.pololu.com/docs/0j57)
 
 * [Zumo Manual (PDF)](https://www.pololu.com/docs/pdf/0j57/zumo_shield_for_arduino.pdf)
-* 
+
 ### Day 3: Arduino Introduction
 
 Norms for handling robots.
@@ -95,15 +95,13 @@ Components to find:
 * TX/RX LEDs
 * Power LED
 
-328 processor is the "brain" of the robot
-
-Observe
-
 ### Day 4: Arduino IDE: Blink & Beep
 
 #### Arduino program model:
 
 ##### Using Scratch:
+
+[Mblock](http://mblock.cc)
 
 [S4A: Scratch for Arduino](http://s4a.cat)
 
