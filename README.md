@@ -54,7 +54,7 @@ Clips for robot hands
 
 Gloves
 
-### Days 2 & 3: Getting to Know the Arduino & Zumo Robot
+### Day 2: Behavior Control Algorithms
 
 
 
@@ -65,6 +65,39 @@ Gloves
 * [Zumo Manual (HTML)](https://www.pololu.com/docs/0j57)
 
 * [Zumo Manual (PDF)](https://www.pololu.com/docs/pdf/0j57/zumo_shield_for_arduino.pdf)
+* 
+### Day 3: Arduino Introduction
+
+Norms for handling robots.
+
+Assign groups of four students.
+
+Roles in group:
+1. Facilitator
+2. Hardware
+3. Documentation
+4. Programmer dejour
+
+Observe board, connect back to Unit 1. A large clear image of the component side of the board is [here](http://www.arduino.cc/en/uploads/Main/ArduinoUno_R3_Front.jpg).
+
+Start block diagram
+
+Components to find:
+* Atmel ATMega328P microcontroller (integrated chip with CPU, RAM, flash memory, it is the largest chip on the board)
+* Atmel ATMega16U2 microcontroller (the surface mount chip with lots of pins near the USB connector, it is a general purpose microcontroller that is used to handle the USB communication between the host computer, the PC used to write the programs for the Arduino, and the Arduino)
+* USB connector
+* Reset buttom
+* Analog pins
+* Digital pins
+* PWM (pulse width modulated) pins
+* Power connector
+* Pin 13 LED
+* TX/RX LEDs
+* Power LED
+
+328 processor is the "brain" of the robot
+
+Observe
 
 ### Day 4: Arduino IDE: Blink & Beep
 
